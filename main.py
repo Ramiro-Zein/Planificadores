@@ -87,6 +87,12 @@ Tasks_1 = [
     {'task_2': 'T2', 'duracion_rafaga': 1, 'tiempo_bloqueado': 2},
 ]
 
+Tasks_1_Enviar = [
+    {{'task_0': 'TO', 'duracion_rafaga': 7, 'tiempo_bloqueado': 4}},
+    {{'task_1': 'T1', 'duracion_rafaga': 1, 'tiempo_bloqueado': 2}},
+    {{'task_2': 'T2', 'duracion_rafaga': 1, 'tiempo_bloqueado': 2}}
+]
+
 
 if __name__ == '__main__':
     Proceso_1 = Task()
